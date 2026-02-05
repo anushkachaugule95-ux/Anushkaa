@@ -1,0 +1,3 @@
+This is my first file inside my git repository
+My name is anushka 
+Iam from Inft department and we are learning Devops.
